@@ -1,0 +1,15 @@
+//Soal Kelima//
+//Cari nilai tengah yang menerima 2 parameter.//
+//Jika nilai tengah tidak bulat maka bulatkan ke angka dibawahnya.//
+
+
+function nilaiTengah(i=3,t=7){
+    var a=(i+t)/2
+    if (i%2===0){
+        if(t%2===0){
+            console.log(a); 
+        }
+        
+    }
+
+}
